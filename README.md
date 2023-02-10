@@ -36,6 +36,13 @@ Must have `config.json` which utilizes your Discord bot token (DO NOT SHARE)
 const channel = client.channels.cache.find(channel => channel.name === 'test'); //Replace with your discord channel name
 ```
 
+Replace `trackToken` to your desire token.
+
+```
+const trackToken = 'BWXrrYFhT7bMHmNBFoQFWdsSgA3yXoAnMhDK6Fn1eSEn' //Replace token you are looking for
+```
+
+
 ## MagicEden Collection Activity
 
 `MagicEdenCollectionActivity.js` Replace `const collection` to your desire collection
