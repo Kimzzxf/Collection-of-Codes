@@ -11,7 +11,7 @@ All sales within the collection will be sent via Discord embed which monitors ev
 - [Visual Studio Code](https://code.visualstudio.com/) or any code editor
 - [Node](https://nodejs.org/en/)
 - Discord application
-  - Create a bot
+  - [Create a bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html)
 
 ### Packages
 - DiscordJS
